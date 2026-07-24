@@ -1,1 +1,1 @@
-this folder contains the screenshots of the project
+this folder contains screenshots of the project
